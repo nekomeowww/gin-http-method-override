@@ -1,5 +1,7 @@
 # gin-http-method-override
 
+[![](https://goreportcard.com/badge/github.com/nekomeowww/gin-http-method-override)](https://goreportcard.com/report/github.com/nekomeowww/gin-http-method-override)
+
 A [Gin web framework middleware](https://github.com/gin-gonic/gin) that allows you to override the HTTP method of a request through the `X-HTTP-Method-Override` header.
 
 Learn more about `X-HTTP-Method-Override`:
